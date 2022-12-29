@@ -11,3 +11,4 @@ C:\Users\epikn\source\repos\PPT monopoly\PPT monopoly\obj\Debug\netcoreapp3.1\PP
 C:\Users\epikn\source\repos\PPT monopoly\PPT monopoly\obj\Debug\netcoreapp3.1\PPT monopoly.dll
 C:\Users\epikn\source\repos\PPT monopoly\PPT monopoly\obj\Debug\netcoreapp3.1\PPT monopoly.pdb
 C:\Users\epikn\source\repos\PPT monopoly\PPT monopoly\obj\Debug\netcoreapp3.1\PPT monopoly.genruntimeconfig.cache
+C:\Users\epikn\source\repos\PPT monopoly\PPT monopoly\obj\Debug\netcoreapp3.1\PPT monopoly.csproj.AssemblyReference.cache

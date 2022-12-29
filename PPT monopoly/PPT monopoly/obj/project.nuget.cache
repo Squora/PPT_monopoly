@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qhA7OwuqJfYGvhRgyZJ75DedOkIrWEph57NJQkjVj1WdRZry2FX8LW/Y9CdeCrIONsVJMM/VJjnIdJhfyAgRtw==",
+  "dgSpecHash": "xNWq6/EXdmO2lHbxLJ8i7XXZZXRP0lCiBdw3dt/JzPu43vfM+HpYJELy/2gktiAZ8Bmv9HWbdN7A+3O1+vSwkw==",
   "success": true,
   "projectFilePath": "C:\\Users\\epikn\\source\\repos\\PPT monopoly\\PPT monopoly\\PPT monopoly.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\epikn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\epikn\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\epikn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\epikn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
